@@ -1,0 +1,6 @@
+{
+    "env":{
+        "DB_NAME":"MERN",
+        "JWT_KEY":"supersecret_dont_share"
+    }
+}
