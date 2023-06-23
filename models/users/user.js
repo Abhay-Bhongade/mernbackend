@@ -33,7 +33,7 @@ const userSchema = new mongoose.Schema({
     },    
     provider:{
         type:String,
-        default: 'Manual'
+        default: "Manual"
     },    
     disable:{
         type:Boolean,
